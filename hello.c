@@ -7,4 +7,7 @@ int main()
 	
 	printf("hello worldtemp");
 	
+
+	printf("done");
+
   }
