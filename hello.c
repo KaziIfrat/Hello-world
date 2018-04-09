@@ -6,6 +6,7 @@ int main()
 	
 	
 	printf("hello worldtemp");
+	printf("hello worldtemp2");
 	
 
 	printf("done");
